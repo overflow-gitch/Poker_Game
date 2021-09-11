@@ -1,0 +1,13 @@
+C:\Users\tarik\source\repos\Poker_Game\Poker_Game\bin\Debug\netcoreapp3.1\Poker_Game.exe
+C:\Users\tarik\source\repos\Poker_Game\Poker_Game\bin\Debug\netcoreapp3.1\Poker_Game.deps.json
+C:\Users\tarik\source\repos\Poker_Game\Poker_Game\bin\Debug\netcoreapp3.1\Poker_Game.runtimeconfig.json
+C:\Users\tarik\source\repos\Poker_Game\Poker_Game\bin\Debug\netcoreapp3.1\Poker_Game.runtimeconfig.dev.json
+C:\Users\tarik\source\repos\Poker_Game\Poker_Game\bin\Debug\netcoreapp3.1\Poker_Game.dll
+C:\Users\tarik\source\repos\Poker_Game\Poker_Game\bin\Debug\netcoreapp3.1\Poker_Game.pdb
+C:\Users\tarik\source\repos\Poker_Game\Poker_Game\obj\Debug\netcoreapp3.1\Poker_Game.csprojAssemblyReference.cache
+C:\Users\tarik\source\repos\Poker_Game\Poker_Game\obj\Debug\netcoreapp3.1\Poker_Game.AssemblyInfoInputs.cache
+C:\Users\tarik\source\repos\Poker_Game\Poker_Game\obj\Debug\netcoreapp3.1\Poker_Game.AssemblyInfo.cs
+C:\Users\tarik\source\repos\Poker_Game\Poker_Game\obj\Debug\netcoreapp3.1\Poker_Game.dll
+C:\Users\tarik\source\repos\Poker_Game\Poker_Game\obj\Debug\netcoreapp3.1\Poker_Game.pdb
+C:\Users\tarik\source\repos\Poker_Game\Poker_Game\obj\Debug\netcoreapp3.1\Poker_Game.genruntimeconfig.cache
+C:\Users\Tarik\source\repos\Poker_Game\Poker_Game\obj\Debug\netcoreapp3.1\Poker_Game.csproj.CoreCompileInputs.cache
